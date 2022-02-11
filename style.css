@@ -15,7 +15,7 @@ ul {
 body {
   width: 380px;
   margin: 0 auto;
-  font-family: poppins;
+  font-family: Poppins, sans-serif;
 }
 
 .tools {
@@ -29,7 +29,7 @@ body {
 .logo {
   padding: 10px 24px;
   height: 20px;
-  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -72,7 +72,7 @@ body {
 }
 
 .intro h1 {
-  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 40px;
@@ -88,8 +88,8 @@ body {
   order: 0;
 }
 
-.intro .about-me{
-  font-family: "Poppins", Arial, Helvetica, sans-serif;
+.intro .about-me {
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -104,7 +104,7 @@ body {
 }
 
 .intro .connect {
-  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -115,7 +115,6 @@ body {
   margin: 0;
   order: 2;
 }
-
 
 .socials-media-icons {
   color: #505f79;
