@@ -12,6 +12,18 @@ ul {
   margin: 0;
 }
 
+.container {
+  width: 30vw;
+}
+
+.tool-bar {
+  position: relative;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 4;
+}
+
 body {
   width: 380px;
   margin: 0 auto;
@@ -41,6 +53,27 @@ body {
   order: 0;
   flex-grow: 0;
   margin: 0;
+}
+
+.navbar {
+  display: flex;
+  align-items: flex-start;
+  padding: 8px;
+}
+
+.nav-button {
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 10px 12px;
+  border: none;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  width: 40px;
+  height: 40px;
 }
 
 .button {
@@ -84,7 +117,7 @@ body {
   width: 327px;
   height: 150px;
   left: 24px;
-  margin: 12px 0;
+  margin: 15px 0;
   order: 0;
 }
 
