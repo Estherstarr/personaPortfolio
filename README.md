@@ -4,16 +4,52 @@
 
 
 
-
 ## Built With
 
-- HTML
+- HTML5
 - CSS
+- Technologies used
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+Good knowledge of Figma
+Create Github repository
+Have VSCode or choice text editor installed
+Have Git installed
+Good Knowledge of Linters
+
+### Setup
+Git clone - https://github.com/esterstarr/My-Portfolio
+HTML, CSS Linter configuration - https://github.com/microverseinc/linters-config/tree/master/html-css
+
+### Deployment
+Github
+
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-📝 License
+- GitHub: [@githubhandle](https://github.com/estherstarr)
+- Twitter: [@twitterhandle](https://twitter.com/anibeEsther)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/onwuanibeonome)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
 
@@ -35,13 +71,7 @@ This project is [MIT](./MIT.md) licensed.
 - CSS
 
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
+👤 **Author1***
 
 - GitHub: [@githubhandle](https://github.com/Estherstarr/)
 - Twitter: [@twitterhandle](https://twitter.com/AnibeEsther)
@@ -59,9 +89,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- README template from Microverse
+- Linter setup from Microverse
+- Design provided by Microverse.
 
 ## 📝 License
 
