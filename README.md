@@ -89,9 +89,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- README template from Microverse
+- Linter setup from Microverse
+- Design provided by Microverse.
 
 ## 📝 License
 
